@@ -1,0 +1,7 @@
+# 源文件与构建脚本只留本地——它们含明文正文和密码
+iceland-6day-itinerary.html
+iceland-itinerary-web.html
+iceland-web-v2.html
+_original-backup.html
+build.py
+.DS_Store
