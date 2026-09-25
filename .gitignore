@@ -9,3 +9,4 @@ build.py
 # 英文版译文词典与生成脚本（含明文正文）
 i18n/
 i18n.py
+__pycache__/
