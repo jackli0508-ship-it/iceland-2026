@@ -10,3 +10,4 @@ build.py
 i18n/
 i18n.py
 __pycache__/
+private/
